@@ -1,0 +1,6 @@
+- RESULTADOS DEL JUEGO -
+Jugador 1: 0
+Jugador 2: 1
+- RESULTADOS DEL JUEGO -
+Jugador 1: 5
+Jugador 2: 7
